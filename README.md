@@ -29,7 +29,7 @@
 
 &nbsp;&nbsp;&nbsp; 🤖 &nbsp; Fun fact — I built an AI that **interviews YOU** based on your own resume!
 
-&nbsp;&nbsp;&nbsp; 📧 &nbsp; Reach me at **mk2293776@gmail.com**
+&nbsp;&nbsp;&nbsp; 📧 &nbsp; Reach me at **mukeshkumar.b2023@vitstudent.ac.in**
 
 &nbsp;&nbsp;&nbsp; 💬 &nbsp; *"Ship it. Learn from it. Build the next one better."*
 
