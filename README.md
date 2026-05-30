@@ -9,18 +9,33 @@
 
 </div>
 
-🧑‍💻 About Me
+---
+
+## 🧑‍💻 About Me
+
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-    👋   Hey! I'm Mukesh Kumar B, a Full-Stack & AI Developer
-    📍   Based in Katpadi, Vellore, India
-    🎓   M.Tech Software Engineering @ VIT Vellore
-    💼   I build AI-powered web apps — from RAG pipelines to full-stack platforms
-    🔭   Currently working on DevLens & PrepAI — both live in production
-    🌱   Learning MLOps, System Design, and Advanced RAG Architectures
-    🤖   Fun fact — I built an AI that interviews YOU based on your own resume!
-    📧   Reach me at mk2293776@gmail.com
-    💬   "Ship it. Learn from it. Build the next one better."
+
+&nbsp;&nbsp;&nbsp; 👋 &nbsp; Hey! I'm **Mukesh Kumar B**, a Full-Stack & AI Developer
+
+&nbsp;&nbsp;&nbsp; 📍 &nbsp; Based in **Katpadi, Vellore, India**
+
+&nbsp;&nbsp;&nbsp; 🎓 &nbsp; **M.Tech Software Engineering** @ VIT Vellore
+
+&nbsp;&nbsp;&nbsp; 💼 &nbsp; I build **AI-powered web apps** — from RAG pipelines to full-stack platforms
+
+&nbsp;&nbsp;&nbsp; 🔭 &nbsp; Currently working on **DevLens** & **PrepAI** — both live in production
+
+&nbsp;&nbsp;&nbsp; 🌱 &nbsp; Learning **MLOps**, **System Design**, and **Advanced RAG Architectures**
+
+&nbsp;&nbsp;&nbsp; 🤖 &nbsp; Fun fact — I built an AI that **interviews YOU** based on your own resume!
+
+&nbsp;&nbsp;&nbsp; 📧 &nbsp; Reach me at **mk2293776@gmail.com**
+
+&nbsp;&nbsp;&nbsp; 💬 &nbsp; *"Ship it. Learn from it. Build the next one better."*
+
 <br clear="right"/>
+
+---
 
 ## 🛠️ Tech Stack
 
