@@ -10,39 +10,42 @@
 </div>
 
 ---
+🧑‍💻 About Me
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+bash┌─────────────────────────────────────────────────┐
+│              MUKESH KUMAR B                      │
+│          Full-Stack & AI Developer               │
+└─────────────────────────────────────────────────┘
 
-## 🧑‍💻 About Me
+$ whoami
+  👤  Mukesh Kumar B
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+$ location
+  📍  Katpadi, Vellore, India
 
-```python
-class MukeshKumar:
-    def __init__(self):
-        self.name        = "Mukesh Kumar B"
-        self.location    = "Katpadi, Vellore, India 🇮🇳"
-        self.degree      = "M.Tech Software Engineering @ VIT Vellore"
-        self.email       = "mk2293776@gmail.com"
+$ education
+  🎓  M.Tech Software Engineering @ VIT Vellore
 
-        self.stack = [
-            "React", "Node.js", "FastAPI",
-            "Python", "LangChain", "Google Gemini",
-            "MongoDB", "Pinecone", "Playwright"
-        ]
+$ contact
+  📧  mk2293776@gmail.com
 
-        self.currently_learning = [
-            "Advanced RAG architectures",
-            "MLOps & model serving",
-            "System design at scale"
-        ]
+$ tech_stack
+  ⚛️   React · Node.js · FastAPI · Python
+  🤖  LangChain · Google Gemini · OpenCV
+  🗄️   MongoDB · Pinecone
 
-        self.fun_fact = (
-            "I built an AI that interviews YOU "
-            "based on your own resume 🤖"
-        )
+$ currently_learning
+  🧠  Advanced RAG Architectures
+  ⚙️   MLOps & Model Serving
+  🏗️   System Design at Scale
 
-    def motto(self):
-        return "Ship it. Learn from it. Build the next one better."
-```
+$ fun_fact
+  🤖  I built an AI that interviews YOU
+      based on your own resume!
+
+$ motto
+  🚀  "Ship it. Learn from it. Build the next one better."
+<br clear="right"/>
 
 <br clear="right"/>
 
