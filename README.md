@@ -9,47 +9,18 @@
 
 </div>
 
----
 🧑‍💻 About Me
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-bash┌─────────────────────────────────────────────────┐
-│              MUKESH KUMAR B                      │
-│          Full-Stack & AI Developer               │
-└─────────────────────────────────────────────────┘
-
-$ whoami
-  👤  Mukesh Kumar B
-
-$ location
-  📍  Katpadi, Vellore, India
-
-$ education
-  🎓  M.Tech Software Engineering @ VIT Vellore
-
-$ contact
-  📧  mk2293776@gmail.com
-
-$ tech_stack
-  ⚛️   React · Node.js · FastAPI · Python
-  🤖  LangChain · Google Gemini · OpenCV
-  🗄️   MongoDB · Pinecone
-
-$ currently_learning
-  🧠  Advanced RAG Architectures
-  ⚙️   MLOps & Model Serving
-  🏗️   System Design at Scale
-
-$ fun_fact
-  🤖  I built an AI that interviews YOU
-      based on your own resume!
-
-$ motto
-  🚀  "Ship it. Learn from it. Build the next one better."
+    👋   Hey! I'm Mukesh Kumar B, a Full-Stack & AI Developer
+    📍   Based in Katpadi, Vellore, India
+    🎓   M.Tech Software Engineering @ VIT Vellore
+    💼   I build AI-powered web apps — from RAG pipelines to full-stack platforms
+    🔭   Currently working on DevLens & PrepAI — both live in production
+    🌱   Learning MLOps, System Design, and Advanced RAG Architectures
+    🤖   Fun fact — I built an AI that interviews YOU based on your own resume!
+    📧   Reach me at mk2293776@gmail.com
+    💬   "Ship it. Learn from it. Build the next one better."
 <br clear="right"/>
-
-<br clear="right"/>
-
----
 
 ## 🛠️ Tech Stack
 
